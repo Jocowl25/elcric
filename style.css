@@ -44,7 +44,7 @@ align-items:center;
 }
 .win{
     display:none;
-    font-size:25vw;
+    font-size:20vw;
     z-index:-100;
     opacity:25%;
     color:rebeccapurple;
